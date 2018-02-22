@@ -13,8 +13,8 @@
    3. Download sample git content/outline
    4. Create Github account
 2. Introduction to OER authoring
-   1. Download and modify example OER course materials
-   2. Modify outline course materials outline
+   1. Import and modify example text, images, and other media
+   2. Modify "Outline"
    3. Modify OER Schema
    4. Sync with github and publish to a live web
    5. View published OER course materials online
