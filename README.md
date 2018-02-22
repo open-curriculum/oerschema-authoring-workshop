@@ -7,17 +7,17 @@
 
 ## Instructions
 
-1. HAX introduction:
+1. Getting started:
    1. haxtheweb.org
    2. Download HAX desktop editor
    3. Download sample git content/outline
+   4. Create Github account
 2. Introduction to OER authoring
-   1. Create Github account
-   2. Download and modify example OER course materials
-   3. Modify outline course materials outline
-   4. Modify OER Schema
-   5. Sync with github and publish to a live web
-   6. View published OER course materials online
+   1. Download and modify example OER course materials
+   2. Modify outline course materials outline
+   3. Modify OER Schema
+   4. Sync with github and publish to a live web
+   5. View published OER course materials online
 3. Authoring OER course materials with HAX
    1. Import/copy in existing course content
    2. Make required edit text and make paragraphs
